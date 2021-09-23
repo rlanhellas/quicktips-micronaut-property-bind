@@ -1,6 +1,7 @@
 # Carregando propriedades com @ConfigurationProperties no Micronaut
 
 ## Mais detalhes consulte o artigo no link: 
+https://medium.com/@ronaldo.lanhellas/carregando-propriedades-com-configurationproperties-no-micronaut-9463b98dbaee
 
 ## Como rodar o projeto ?
 `./gradlew run`
