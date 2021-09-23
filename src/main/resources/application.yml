@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: quicktipsMicronautPropertyBind
+myapp:
+  max-users: 100
+  schedule:
+    max-date: '2021-10-11'
+    min-date: '2021-09-11'
+  thread: 
+    min: 1
+    max: 10
